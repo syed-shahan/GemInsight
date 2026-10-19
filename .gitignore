@@ -8,9 +8,13 @@ venv/
 .ipynb_checkpoints/
 .DS_Store
 Thumbs.db
-# Keep large training data and model files out of Git for now
+
+# Keep large datasets and videos out of Git
 dataset/
-model/
 unknown/
 videos/
-ml_report.pdf
+
+# Include the trained model and project report
+!model/
+!model/gemstone_model.h5
+!ml_report.pdf
