@@ -1,0 +1,15 @@
+
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.streamlit/secrets.toml
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+# Keep large training data and model files out of Git for now
+dataset/
+model/
+unknown/
+videos/

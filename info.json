@@ -1,0 +1,218 @@
+{
+  "aquamarine": {
+    "origin": "Brazil",
+    "price": "Rs.2000 - Rs.25000 per carat",
+    "features": "Light blue transparent gemstone",
+    "type": "Natural"
+  },
+  "australian_opal": {
+    "origin": "Australia",
+    "price": "Rs.1500 - Rs.18000 per carat",
+    "features": "Play-of-color effect",
+    "type": "Natural"
+  },
+  "aventurine": {
+    "origin": "India",
+    "price": "Rs.100 - Rs.900 per carat",
+    "features": "Green with sparkling inclusions",
+    "type": "Natural"
+  },
+  "black_haqeeq": {
+    "origin": "India",
+    "price": "Rs.100 - Rs.1200 per carat",
+    "features": "Black opaque gemstone",
+    "type": "Natural"
+  },
+  "blue_moonstone": {
+    "origin": "India",
+    "price": "Rs.500 - Rs.4000 per carat",
+    "features": "Blue sheen effect",
+    "type": "Natural"
+  },
+  "blue_sapphire_bkk": {
+    "origin": "Thailand (Bangkok)",
+    "price": "Rs.8000 - Rs.150000 per carat",
+    "features": "Deep blue high clarity stone",
+    "type": "Heated / Natural"
+  },
+  "blue_topaz": {
+    "origin": "Brazil",
+    "price": "Rs.300 - Rs.2000 per carat",
+    "features": "Sky to deep blue shades",
+    "type": "Treated"
+  },
+  "cats_eye": {
+    "origin": "Sri Lanka",
+    "price": "Rs.3000 - Rs.50000 per carat",
+    "features": "Chatoyancy (cat-eye effect)",
+    "type": "Natural"
+  },
+  "citrine": {
+    "origin": "Brazil",
+    "price": "Rs.200 - Rs.1500 per carat",
+    "features": "Yellow quartz gemstone",
+    "type": "Natural / Heated"
+  },
+  "crystal": {
+    "origin": "Global",
+    "price": "Rs.50 - Rs.300 per carat",
+    "features": "Clear quartz crystal",
+    "type": "Natural"
+  },
+  "ethiopian_black_opal": {
+    "origin": "Ethiopia",
+    "price": "Rs.3000 - Rs.25000 per carat",
+    "features": "Dark base with color play",
+    "type": "Natural"
+  },
+  "ethiopian_opal": {
+    "origin": "Ethiopia",
+    "price": "Rs.1500 - Rs.15000 per carat",
+    "features": "Bright color flashes",
+    "type": "Natural"
+  },
+  "green_amethyst": {
+    "origin": "Brazil",
+    "price": "Rs.400 - Rs.3000 per carat",
+    "features": "Light green quartz",
+    "type": "Treated"
+  },
+  "irani_feroza": {
+    "origin": "Iran",
+    "price": "Rs.3000 - Rs.20000 per carat",
+    "features": "Sky blue turquoise stone",
+    "type": "Natural"
+  },
+  "italian_coral": {
+    "origin": "Italy",
+    "price": "Rs.2000 - Rs.15000 per carat",
+    "features": "Red organic gemstone",
+    "type": "Natural"
+  },
+  "japanese_coral": {
+    "origin": "Japan",
+    "price": "Rs.2000 - Rs.18000 per carat",
+    "features": "High quality red coral",
+    "type": "Natural"
+  },
+  "karnite": {
+    "origin": "India",
+    "price": "Rs.500 - Rs.5000 per carat",
+    "features": "Reddish-orange gemstone",
+    "type": "Natural"
+  },
+  "lapis_lazuli": {
+    "origin": "Afghanistan",
+    "price": "Rs.600 - Rs.4000 per carat",
+    "features": "Deep blue with golden flecks",
+    "type": "Natural"
+  },
+  "malchite": {
+    "origin": "Africa",
+    "price": "Rs.300 - Rs.2000 per carat",
+    "features": "Green banded pattern",
+    "type": "Natural"
+  },
+  "moissanate": {
+    "origin": "Lab-created",
+    "price": "Rs.800 - Rs.5000 per carat",
+    "features": "Diamond-like brilliance",
+    "type": "Synthetic"
+  },
+  "nishapuri_feroza": {
+    "origin": "Iran (Nishapur)",
+    "price": "Rs.3000 - Rs.22000 per carat",
+    "features": "Premium turquoise stone",
+    "type": "Natural"
+  },
+  "odisha_quartz": {
+    "origin": "India (Odisha)",
+    "price": "Rs.100 - Rs.800 per carat",
+    "features": "Transparent quartz variety",
+    "type": "Natural"
+  },
+  "paridot": {
+    "origin": "Pakistan",
+    "price": "Rs.700 - Rs.6000 per carat",
+    "features": "Olive green gemstone",
+    "type": "Natural"
+  },
+  "pink_tourmaline": {
+    "origin": "Brazil",
+    "price": "Rs.1500 - Rs.20000 per carat",
+    "features": "Bright pink gemstone",
+    "type": "Natural"
+  },
+  "rhodolite_garnet": {
+    "origin": "Africa",
+    "price": "Rs.800 - Rs.8000 per carat",
+    "features": "Purplish-red garnet",
+    "type": "Natural"
+  },
+  "rose_quartz": {
+    "origin": "Brazil",
+    "price": "Rs.100 - Rs.700 per carat",
+    "features": "Soft pink translucent stone",
+    "type": "Natural"
+  },
+  "ruby": {
+    "origin": "Myanmar, Sri Lanka",
+    "price": "Rs.10000 - Rs.150000 per carat",
+    "features": "Deep red durable gemstone",
+    "type": "Natural / Treated"
+  },
+  "smokey_topaz": {
+    "origin": "Brazil",
+    "price": "Rs.300 - Rs.2500 per carat",
+    "features": "Brownish smoky appearance",
+    "type": "Natural"
+  },
+  "south_sea_pearl": {
+    "origin": "Australia",
+    "price": "Rs.5000 - Rs.50000 per piece",
+    "features": "Large lustrous pearl",
+    "type": "Natural"
+  },
+  "sudan_ruby": {
+    "origin": "Sudan",
+    "price": "Rs.3000 - Rs.40000 per carat",
+    "features": "Deep red African ruby",
+    "type": "Natural"
+  },
+  "triangular_coral": {
+    "origin": "Sudan",
+    "price": "Rs.1000 - Rs.10000 per carat",
+    "features": "Red coral with unique shape",
+    "type": "Natural"
+  },
+  "white_topaz": {
+    "origin": "Brazil",
+    "price": "Rs.300 - Rs.2000 per carat",
+    "features": "Clear transparent gemstone",
+    "type": "Natural"
+  },
+  "yellow_sapphire_bkk": {
+    "origin": "Thailand",
+    "price": "Rs.5000 - Rs.120000 per carat",
+    "features": "Bright yellow gemstone",
+    "type": "Heated / Natural"
+  },
+  "yemeni_haqeeq": {
+    "origin": "Yemen",
+    "price": "Rs.500 - Rs.8000 per carat",
+    "features": "Brown-red agate stone",
+    "type": "Natural"
+  },
+  "zambian_emerald": {
+    "origin": "Zambia",
+    "price": "Rs.4000 - Rs.90000 per carat",
+    "features": "Rich green gemstone",
+    "type": "Natural"
+  },
+  "zambian_emerald_lg": {
+    "origin": "Lab-grown",
+    "price": "Rs.500 - Rs.5000 per carat",
+    "features": "Synthetic emerald variant",
+    "type": "Synthetic"
+  }
+}
